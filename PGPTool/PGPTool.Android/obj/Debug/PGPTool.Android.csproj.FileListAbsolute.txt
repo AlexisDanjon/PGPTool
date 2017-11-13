@@ -61,3 +61,5 @@ C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\SQLi
 C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\SQLite-net.xml
 C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\Newtonsoft.Json.dll
 C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\MindBlossom\source\repos\PGPTool\PGPTool\PGPTool.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll

@@ -15,5 +15,7 @@ namespace PGPTool.Models
         public static int LoginIconHeight = 120;
 
         public static string LoginUrl = "https://test.com/api/Auth/Login";
+
+        public static string NoInternetText = "No Internet, please reconnect.";
     }
 }
